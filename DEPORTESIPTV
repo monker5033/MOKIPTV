@@ -1,0 +1,718 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://movies.iptvhn.net/chlogos/directvsport.png" group-title="Deportes", DirecTV Sport
+http://go.iptvhn.net:25461/5860/5860/6703
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO", MX: ESPN 1
+http://fortv.cc:8080/jonathan/jonathan/57644
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/160fa147d986ff95034f7199b1510080.png" group-title="Mexico ➾ Sports", MX: Claro Sports
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/3012
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Mexico ➾ Sports", MX: ESPN
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/9070
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" group-title="Mexico ➾ Sports", MX: ESPN 3
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/38603
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/669589f86e5d9edc472f75011f9c1055.png" group-title="Mexico ➾ Sports", MX: ESPN Dos
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/9068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" group-title="Mexico ➾ Sports", MX: ESPN Extra
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/38607
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png" group-title="Mexico ➾ Sports", MX: Europa Europa
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/9130
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c1c7c1a346bcdfcd6f85ace03bac1b6f.png" group-title="Colombia", CO: Win Sports
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/8345
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/1438a5a2a8917a271b8f5736c9783d1d.png" group-title="Colombia", CO: Win Sports+
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/294455
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg" group-title="Mexico", MX: FOX SPORTS
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/10925
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" group-title="Mexico", MX: FOX SPORTS 2
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/3043
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" group-title="Mexico", MX: FOX SPORTS 3
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/3044
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" group-title="Mexico ➾ Sports", MX: ESPN
+http://quality-restream.com:8080/Jonsno/jv5DR53f7EG3Ajvx65/9070
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=100" group-title="COPA LIBERTADORES", LIBERTADORES 6
+http://higherpro.xyz:8080/Heriberto/Heriberto/78948
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=100" group-title="COPA LIBERTADORES", LIBERTADORES 5
+http://higherpro.xyz:8080/Heriberto/Heriberto/78949
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=100" group-title="COPA LIBERTADORES", LIBERTADORES 2
+http://higherpro.xyz:8080/Heriberto/Heriberto/78951
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=100" group-title="COPA LIBERTADORES", LIBERTADORES 8
+http://higherpro.xyz:8080/Heriberto/Heriberto/78952
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/23-copa-libertadores.png?q=75&w=100" group-title="COPA LIBERTADORES", LIBERTADORES 1
+http://higherpro.xyz:8080/Heriberto/Heriberto/78953
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA LIBERTADORES", LIBERTADORES  7
+http://higherpro.xyz:8080/Heriberto/Heriberto/79736
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COPA LIBERTADORES", LIBERTADORES 4
+http://higherpro.xyz:8080/Heriberto/Heriberto/82515
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/73000905174207fa20e73ad38812965c.png" group-title="PERÚ", PERU | MOVISTAR DEPORTES
+http://higherpro.xyz:8080/Heriberto/Heriberto/69846
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/73000905174207fa20e73ad38812965c.png" group-title="PERÚ", PERU | Movistar Deportes FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/69847
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1177963810403033089/9MVsHyac_400x400.jpg" group-title="PERÚ", PERU | M. DEPORTES HD (E)
+http://higherpro.xyz:8080/Heriberto/Heriberto/69848
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fx3BX3d/IMG-20210329-233604.jpg" group-title="PERÚ", PE : MOVISTAR DEPORTES PLUS
+http://higherpro.xyz:8080/Heriberto/Heriberto/40715
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg" group-title="PERÚ", PE | MOVISTAR DEPORTES
+http://higherpro.xyz:8080/Heriberto/Heriberto/56772
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/6c32fa368835a1448e47defee4b05867.png" group-title="PERÚ", PE | MOVISTAR DEPORTES SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/56773
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", ES:MOVISTAR DEPORTES 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/38044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", ES:Movistar Deportes HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/38058
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", ES:MOVISTAR DEPORTES HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/38112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ES:#VAMOS HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/66435
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1905650939_ESPN4.png.66e5580fda43eb907003d41f9d4770f4.png" group-title="DEPORTES", LA_SD:ESPN 4
+http://higherpro.xyz:8080/Heriberto/Heriberto/68499
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1905650939_ESPN4.png.66e5580fda43eb907003d41f9d4770f4.png" group-title="DEPORTES", LA_FHD2: ESPN 4
+http://higherpro.xyz:8080/Heriberto/Heriberto/68500
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gDyysRC/ESPN2ARG.jpg" group-title="DEPORTES", Argentina - ESPN 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37217
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Argentina - Fox Sports 2 HD.
+http://higherpro.xyz:8080/Heriberto/Heriberto/37218
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Argentina - Fox Sports 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37219
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jR56jL3/FOXSPORTS3.jpg" group-title="DEPORTES", Argentina - Fox Sports 3 FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37220
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGh27jw/FOXSPORTS1.jpg" group-title="DEPORTES", Argentina - Fox Sports HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37221
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="DEPORTES", Argentina - Fox Sports Premium HQ
+http://higherpro.xyz:8080/Heriberto/Heriberto/37222
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="DEPORTES", Argentina - Fox Sports Premium FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37223
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="DEPORTES", Argentina - TNT Sports FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37232
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="DEPORTES", Argentina - TNT Sports HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37233
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/0a2ba145754e33248356f8a6f84b1ed6.png" group-title="DEPORTES", Argentina - TNT Sports SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37234
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/e8db0cc21c800ce2aa503c6f0a058df3.png" group-title="DEPORTES", Argentina - TyC Sports.
+http://higherpro.xyz:8080/Heriberto/Heriberto/37237
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdNdqr2/CLAROSPORTS.jpg" group-title="DEPORTES", Claro Sports FHD - CO
+http://higherpro.xyz:8080/Heriberto/Heriberto/37802
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RVTM1R/DIRECTV2.jpg" group-title="DEPORTES", Directv Sports 2 HD (exclusivo)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37947
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES", Directv Sports HD (Exclusivo)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37948
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + FHD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37803
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + HD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37804
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + HD - ARG ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37805
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37806
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + HD - COL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37807
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + HD - PE ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37808
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZQbQy9/DRECTVSPORTS.jpg" group-title="DEPORTES", Directv Sports + SD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37809
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RVTM1R/DIRECTV2.jpg" group-title="DEPORTES", Directv Sports 2  HD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37810
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RVTM1R/DIRECTV2.jpg" group-title="DEPORTES", Directv Sports 2  HD - ARG ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37811
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4RVTM1R/DIRECTV2.jpg" group-title="DEPORTES", Directv Sports 2 HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37812
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/73000905174207fa20e73ad38812965c.png" group-title="PERÚ", PERU | Movistar Deportes FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/69847
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1177963810403033089/9MVsHyac_400x400.jpg" group-title="PERÚ", PERU | M. DEPORTES HD (E)
+http://higherpro.xyz:8080/Heriberto/Heriberto/69848
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fx3BX3d/IMG-20210329-233604.jpg" group-title="PERÚ", PE : MOVISTAR DEPORTES PLUS
+http://higherpro.xyz:8080/Heriberto/Heriberto/40715
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-deportes1.jpg.pagespeed.ic.Y_aHNvRJD4.jpg" group-title="PERÚ", PE | MOVISTAR DEPORTES
+http://higherpro.xyz:8080/Heriberto/Heriberto/56772
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/6c32fa368835a1448e47defee4b05867.png" group-title="PERÚ", PE | MOVISTAR DEPORTES SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/56773
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES", Directv Sports HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37818
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES", Directv Sports HD - COL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37819
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES", Directv Sports SD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37820
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES", Directv Sports SD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37821
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmPJxVG/DIRECTV.jpg" group-title="DEPORTES", Directv Sports SD - COL
+http://higherpro.xyz:8080/Heriberto/Heriberto/37822
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqsrXCg/GOLTVECU.jpg" group-title="DEPORTES", Ecuador - Gol TV (Solo Eventos).
+http://higherpro.xyz:8080/Heriberto/Heriberto/37823
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqsrXCg/GOLTVECU.jpg" group-title="DEPORTES", Ecuador - Gol TV FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37824
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqsrXCg/GOLTVECU.jpg" group-title="DEPORTES", Ecuador - Gol TV HD ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37825
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HqsrXCg/GOLTVECU.jpg" group-title="DEPORTES", Ecuador - Gol TV SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37826
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkyKdj2/LALIGATV.jpg" group-title="DEPORTES", España - LaLiga TV HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37834
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80KG9kZ/LALIGATVBAR.jpg" group-title="DEPORTES", España - LaLigaTV Bar FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37835
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQv5MfZ/LALIGA1.jpg" group-title="DEPORTES", España - M. Laliga 1 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37836
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B4CL9Vw/LALIGA2.jpg" group-title="DEPORTES", España - M. Laliga 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37837
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7cpmbd/LALIGA3.jpg" group-title="DEPORTES", España - M. Laliga 3 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37838
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0CdRRdB/LALIGA.jpg" group-title="DEPORTES", España - M. Laliga FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37839
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0CdRRdB/LALIGA.jpg" group-title="DEPORTES", España - M. Laliga HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37840
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0CdRRdB/LALIGA.jpg" group-title="DEPORTES", España - M. Laliga SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37841
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wL8mFfD/LIGADECAMPEONES.jpg" group-title="DEPORTES", España - M. Liga de Campeones FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37842
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wL8mFfD/LIGADECAMPEONES.jpg" group-title="DEPORTES", España - M. Liga de Campeones HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37843
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wL8mFfD/LIGADECAMPEONES.jpg" group-title="DEPORTES", España - M. Liga de Campeones SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37844
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gGktXN/ESPNCL.jpg" group-title="DEPORTES", DEP || ESPN chile FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37845
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9gGktXN/ESPNCL.jpg" group-title="DEPORTES", DEP || ESPN chile HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37846
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxPvVYd/ESPN2-CHILE.jpg" group-title="DEPORTES", DEP || ESPN 2 chile HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40261
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxPvVYd/ESPN2-CHILE.jpg" group-title="DEPORTES", DEP || ESPN 2 chile  FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40262
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="DEPORTES", ESPN 2 FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37848
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="DEPORTES", ESPN 2 FHD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37849
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="DEPORTES", ESPN 2 HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37850
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="DEPORTES", ESPN 2 HD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37851
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="DEPORTES", ESPN 2 SD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37852
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Zshdfz/ESPN2.jpg" group-title="DEPORTES", ESPN 2 SD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37853
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="DEPORTES", ESPN 3 FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37854
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="DEPORTES", ESPN 3 HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37856
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="DEPORTES", ESPN 3 HD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37857
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6pKX6t/ESPN3.jpg" group-title="DEPORTES", ESPN 3 HQ - Col ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37858
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4s4yHG/ESPNEXTRA.jpg" group-title="DEPORTES", ESPN Extra FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37859
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4s4yHG/ESPNEXTRA.jpg" group-title="DEPORTES", ESPN Extra HD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37860
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4s4yHG/ESPNEXTRA.jpg" group-title="DEPORTES", ESPN Extra HD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37861
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37862
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37863
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37864
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN HD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37865
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN HD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37866
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN SD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37867
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZdmvFK/ESPN.jpg" group-title="DEPORTES", ESPN SD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37868
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="DEPORTES", DEP| FOX SPORTS 1 CHILE | FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40884
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAAAtFBMVEX///8ALlb2+Pn7/Pz5+vzw8/UAIkyInbDg5usAJE7z9ffc4ujt8PMAKFLY3+UaQmfBzNYEMVkUPWPN1t61w869ydQjSW3l6u6MobSwvsucrr3Q2eAURW4JOGImWIN5kqkzV3geUHsNPGYtYIxhfZeVqbkAG0cJOmVUco5rhJw1aZUmTXFEZIKjtMI9cZ4BMl06ZIloiqlIcpdUfJ6Wr8ZKaYZ4mrhgjbVKd6CeutI+aI4AEj6Xdk7AAAALWUlEQVRoge2Z63KjOBaAhYQAg7hZYAEyNsYmIbGJ00m7Z2b3/d9rjyRw7Fxmq6a798/6VComsZA+zl0CoZvc5CY3uclNbnKTm9zk/1mI7VPBvMALgijwmPAxIf/L5X0RSc65jDwhmEgS+CW88V/C//0omMFi0hNMrUV8JjxZlgDDMFG6YSKAryNm/z4C35M8ElSt5wuZl8NQgUy/y0QKH8gwExGXAv8Wgoh71MfYJjbjZVWVubGHEbBGkgNNyRkhNsaYwvBfzEGEjCjNHxJEGB+qMokE+0RAPYPmQMNDQpmU7Nc5CPG4ZwfFIt0JkXUDZ5TScVk6ytufIhm6nEW91XSCBFz8GgwSwaMlfRruhF92ufB9tar/qehvqJd1GY56p91xUJz3CxgEZzjr6/A5wXmVMKwXw1+K+VpkVYKzJmz7HMMEP4lA4UGSl/tj7aKoy5iNzfq2bZOPAv+1DQm2RVkJvK6PbS9RxH/KRT1JvG/L9n6fkHLwDMKn61+hGIyoylG5aNvlmmEu/jECkQEpV8tN+xzRIb/ysK/dTYPoK1wORDbL5fI5Q5H8hw7qJ9T/ttls2hdfFAlPtHAtb85G7HF2xqXU3ygGacYmHRXPS5jiB+QWldzNzwf5OtUzTuTLZrVZ9jQoIrlsl2q61Wq13a5+mCHBXz/++OOPH39JuPaeHkG2Lwy0lG/g+ZfHNcoLBhSr1ebVw3kfL+I4nmup6zRNLSsEmc1mVtyXn3ov5YRvYc3Nv6hwc8TVtNcQ4vvT45OSx6cfAULfNcTqO9jhZQkU7cIjuCyYp2d5jBDfLfYLkHhC0SSAAhI64fojBuMo38Jym01Ei4oSDh52plh9gxH8T4NgMHJkv24f4YZthAbFsKwL5GNWdMC/gVseOeJ9vP8CQnGEwzsGnBD+BKZIwxJVrodHiJFi9YpQrh786Un/Uh8lylea+ht7ViPrA7YhY0i3REVYA8eTR5JD/DWEZTm7a9/g1Nu28L3To8TNsI94W2sKhbHZvCDxuFUUj3/+eNWf20eJvsEDrzarVz2uLm0fUhcuXY4OjmWl7Qvzh0tN1NonZs7sTDE7XPYAkadvtMK5EG4hsE+Tula62Dxvt8/P21d7vdkqAVP7r1vtDH+SQClpszEMva9Cwbcjt8A81A/aI7GOzxBp7FadErd+o+gvjMHR2tH3uWhwc194IqlToLgfdHmgfr5Rut8qu6BBX243Jfqh1aQY2lhi1W95gg5gkJ1+2lmF+CkeIeqGT09sXVikOkNIXxpfmTPPLWQkA5GkKeiiLscRa+0aI4RSigpDJFYTA4QnM01fkLguE6mZzsPdBDEPptWG2SXFlIKoRDujiB0q3Uo1LyxJLaA4djq5UPtfxkE3BmKlr7cM4kJLW8eeDeVdeAF0g52boZNeyHlA8hRriLo5P7JR+hQjp0kRVI4+y5nrlnKCAAow6Wa/7JjW++YCQv3JET4p723btEM+HVUhB7cbnxZczC8miCwrI71cfwlhzUyZIRw96P+HewgNN5eRgdAU9X3b1oU3RslGOdIwXi/BVuU9ILTpHpM3iMx1PVFPJk+ayTHTWafXa8JLiHBtrBHgfThaY3CLRKp9hYIACuWdABGM0bp8gfHfl8YdW0g23/T3aVoibCDAHkkBrmnsMTsQr59PIZomOi3OryCsuU4WHhut4XSoczv+BqEp6vboitgY30C0oydAclcIwBAumFGFdorCrZBrdF57/voMMddOyK1rMfaQpHRUZQmd3C7cQV5AGA7LJc29WVe5UTdeLwU5HcfKBLHtX3hmgYa7cUrUTckKjKaWK2fXEDBEoaFh32iJwC+vIVSerS0X9Ud45nZ5ryFqExEHNGiG0QXJBCErt/C5mXGfoWGCsExmcp1riFml/fKtvAcmOAIxQoRQ06NICjRYyvhqYYDQQO2xIM3xXAugDtDRJwDCPXdWUFingg7PomT3HqLTEDjK81x1Jdh7BzGbkhU+WLWSGJoY0ApcpTEuQo1Qa0cLc/IGUQhfTQjTeuQMkWaa6jo4zhDINQYM5XtznCEQT7WXps36lBo/yEwYOqfczHWwL82RjG5WofJcRXWaCFLrHYTO3JyMiTTMcfEVBNRn7SBQCPWHs570mowXYUfeHJOM7hdmZ8esF1TNk79ThOXowPXoGDWA3ems/RkE6sI3tw5n6zHUIDOjyPhPLM4h2qHCEKYRdscQTQ/mYd65hDXTHRbzaByOE0Ky+goC5Y3jqHGh4+xLsK1iCnXsjyV4Td6SVW/ydoPFboLY6Vke3kMsjNPJMZ2HDcrdIjcQoQMd6d1VB0aGfjFP6/jU+QhVdzM1QCddulCDHSthHsQSpG3pm7QI6YNPaXsMjsN7vxyLOcejoVJoaUwBE96g5cMmhnnqUAIkKbWY1kjq64GPBawgmTFdGuAqnmqH1ipevIMI/XHiCB1M6V2DPSoF4VEWBYHnRdiPtCgaEYGOQP1Y/cMTYEsh1KWkSARBoEZ52i/LqTXoUdBPEHOpHbC+Zpitz/FHjCrChS1NBRN8D38frVpwVR3q+z2HeqiT1JrAdqC9v2+XeXa8VxnsmOVz1T46ewEkeeF61FgjhMBbTBAL9llwpHSCoNHoFc4A8VHCA7PdXbzb7fq1ncAet39tjif7cFz0/XN7zKK2fV2vn4/PWdPE6bLZ54dZs+v7vgAIsMZUvkCxUT91VmNwVNeVw5l6PmVTxrStwr0voY5GEevvegKbfrB9GlMVnwf8fISNjlgch+i+hV5tsPbUJmunJzZunAJRynzwS4gNIXQSnTU+Ld667f1Oyf6aobhwNzsBPYUGvlSqAE1Yyo69nxznSRStw2fcWBArdH8so/p+3XUnSzXsAKFS8V2qRq/BRQZo7rRHhCnsp5q3bls5A6xxmTAd98rpKUeVsRa3i4JHHu8Ph0MDdZbr28IQypXaMtGFNUSQt4+htdcp4q6HLXF+UKNnKYc2t0KZVmqYI9n/3eYnnGXvQk9I5Orss2eBO4Cfq+03i52Mh/XahZKiKk9HkBeHg0zTQQ5WPEFg1ScQBCN51MFmVHllGFYoelh8tRdVKe/w8RDDi6A8hKogIelmYtDtAGgicWqzc4UUWe+bBZQD2B9wRBZ3KgU+/PuEMHF17+DUsnQj0jhmoxmpnc97BgMAmfCQfEBQFBKV6Ux3mryQuimL4wecxHuB9DEIbxZqVpfwxQKc2p03Qv1+QNg/6dGLLgEGtZVzYrCFezDSjLJXorD2p3X51VGO4EjuHV1CeME9T52c+tC0UTwexhB9SqY/9SGz+sJnVI0RevcF8ETFutMERJ2yfiFfrG9EHdU8QK2EqAu6XEGoo0p9bvX5zQQcx8b6VFNRlNDLgB5moYtY8o/PzoiMVK1UPsOGIRKGQh8uv8c4n5n5ZsMhhKwGLPXNXG2wf0IE96EBcJw4Q3mXXFB8cohnju2oYfBgOCrhzkWnzqtg8N8ctv13ZUjC1vM7Z+ezoVKnX5riI4Y+wfSNKZjg3eBDlr2bFxRzaOMynsvhJw5VfRlh4e7v5p0fDVCdzRm2OdW1z2JOc80ht0iqwaNu6jSdUHcrjVJZVj91skthIlwewn1JeVXlgTlWf3e6PJ5sQ8nPqkGyKk5Pue1LaVZmvkhy/2cgVLMFZvW6Q45wkAFHxD49YdcEEEcYVYcBbuDRr33lQQQ8lHnpwmQ2DGUuPUHPuvCpCHg+VEMWMeUelIpf+rbjLNjj49snhAUvh6oayjKDDU2elfqvjKuXTgRT/f7pt70HIxRAZCCorV/DqeYtGYZEvQXUr+JgffUmzqO/+5WgDQ8qpTQvJKnPkoSZDbh6KQk0vx3gAsUXqnc7C/TCwv+NbyJvcpOb3OQmN7nJTW5yk5+S/wC2RE3k7RVvyAAAAABJRU5ErkJggg==" group-title="DEPORTES", DEP| FOX SPORTS 1 CHILE | HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40885
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="DEPORTES", DEP| FOX SPORTS 1 CHILE | 2MB
+http://higherpro.xyz:8080/Heriberto/Heriberto/40886
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGh27jw/FOXSPORTS1.jpg" group-title="DEPORTES", Fox Sports 1 HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37869
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37870
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 FHD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37871
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37872
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37873
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 HQ - Col ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37874
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 SD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37875
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSkNgKc/FOXSPORTS2.jpg" group-title="DEPORTES", Fox Sports 2 SD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37876
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jR56jL3/FOXSPORTS3.jpg" group-title="DEPORTES", Fox Sports 3 FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37877
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jR56jL3/FOXSPORTS3.jpg" group-title="DEPORTES", Fox Sports 3 FHD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37878
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jR56jL3/FOXSPORTS3.jpg" group-title="DEPORTES", Fox Sports 3 HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37879
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jR56jL3/FOXSPORTS3.jpg" group-title="DEPORTES", Fox Sports 3 HQ - Col ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37880
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37881
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports FHD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37882
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports HD - CL ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37883
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports HD - Col ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/37884
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports HD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37885
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="DEPORTES", Fox Sports Premium HD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37886
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hh0F9D6/FOXSPORTSPREMIUM.jpg" group-title="DEPORTES", Fox Sports Premium SD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37887
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports SD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37888
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tph1Dj4/FOXSPORTS.jpg" group-title="DEPORTES", Fox Sports SD - SUR
+http://higherpro.xyz:8080/Heriberto/Heriberto/37889
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES", Gol Peru FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37898
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/69518aa984efadd850a36b2c5fc0eeec.png" group-title="DEPORTES", Gol Peru HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37899
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/69518aa984efadd850a36b2c5fc0eeec.png" group-title="DEPORTES", Gol Peru SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37900
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JmZqDb0/GOLFCHANNEL.jpg" group-title="DEPORTES", Golf Channel FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", MOVISTAR DEPORTES
+http://higherpro.xyz:8080/Heriberto/Heriberto/37905
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="DEPORTES", Tennis Channel HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37906
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/3a96f8b6ade0faf4462e7886f8923c7e.png" group-title="DEPORTES", TUDN FHD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37916
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/3a96f8b6ade0faf4462e7886f8923c7e.png" group-title="DEPORTES", TUDN SD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37917
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/b6f54a1e4170f3d11a3efccc8fe1eeac.png" group-title="DEPORTES", TyC Sports HD - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37918
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/b6f54a1e4170f3d11a3efccc8fe1eeac.png" group-title="DEPORTES", TyC Sports HQ - ARG
+http://higherpro.xyz:8080/Heriberto/Heriberto/37919
+
+#EXTINF:-1 tvg-logo="http://144.217.91.146/Logos/Uruguay/vtv-uy.png" group-title="DEPORTES", Uruguay - VTV FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37925
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/e36bb28cc0ad8419f0410b798bc517ad.png" group-title="DEPORTES", Uruguay - VTV HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37926
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/e36bb28cc0ad8419f0410b798bc517ad.png" group-title="DEPORTES", Uruguay - VTV SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37927
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/c96950ac49caae48a6eae7797bc4b828.png" group-title="DEPORTES", Uruguay - VTV+ HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37928
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/c96950ac49caae48a6eae7797bc4b828.png" group-title="DEPORTES", Uruguay - VTV+ SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37929
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg" group-title="DEPORTES", Brasil - Premiere 1 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37950
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg" group-title="DEPORTES", Brasil - Premiere 3 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37952
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg" group-title="DEPORTES", Brasil - Premiere 4 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37953
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg" group-title="DEPORTES", Brasil - Premiere 5 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37954
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vm9TQ0Z/PREMIERFC.jpg" group-title="DEPORTES", Brasil - Premiere 6 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37955
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng2GQ3F/PREMIERCLUBES.jpg" group-title="DEPORTES", Brasil - Premiere Clubes HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37957
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ng2GQ3F/PREMIERCLUBES.jpg" group-title="DEPORTES", Brasil - Premieres Clubes HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37958
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRTZMzX/ELEVEN1.jpg" group-title="DEPORTES", Portugal - Eleven Sports 1 FHD (10mb)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37959
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Mwx9Bs/ELEVEN2.jpg" group-title="DEPORTES", Portugal - Eleven Sports 2 HD (10mb)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37960
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JtSdTqT/SPORTTV.jpg" group-title="DEPORTES", Portugal - Sport TV + HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37961
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/e9127e9a923bd3bafb7c2d4c81f6bd1c.png" group-title="DEPORTES", Portugal - Sport TV 1 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37962
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/f2e937d31169bc4f2eb0ff518475598f.png" group-title="DEPORTES", Portugal - Sport TV 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37963
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/c51ccbd471d1b76c9b2693c705cc7b2c.png" group-title="DEPORTES", Portugal - Sport TV 3 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37964
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/a40e7ca227384339cadaf2b7717d531b.png" group-title="DEPORTES", Portugal - Sport TV 4 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37965
+
+#EXTINF:-1 tvg-logo="https://broadbandtvnews-broadbandtvnews.netdna-ssl.com/wp-content/uploads/2015/11/Eurosport-1-HD.png" group-title="DEPORTES", EUROSPORT 1 (K)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37969
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-afizzionados-1424.png" group-title="DEPORTES", Afizzionados HD - MX
+http://higherpro.xyz:8080/Heriberto/Heriberto/37971
+
+#EXTINF:-1 tvg-logo="https://neulionmdnyc-a.akamaihd.net/u/ufc/thumbs/categories/1061_s1.jpg" group-title="DEPORTES", DEPORTES EUR | UFC HD (P)
+http://higherpro.xyz:8080/Heriberto/Heriberto/38143
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", DEPORTES EUR | UFC Figh Pass HD (P)
+http://higherpro.xyz:8080/Heriberto/Heriberto/38144
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", VIP_BR:COMBATE HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/39984
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/leagues/league2217.png" group-title="DEPORTES", WWE Network FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40513
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bm4yCpY/REDBULLTV.jpg" group-title="DEPORTES", DEP | RED BULL TV
+http://higherpro.xyz:8080/Heriberto/Heriberto/40589
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DEP| CDO  CHILE SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40594
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DEP| CDO PREMIUM HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40595
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S5KLLLr/ECDF.jpg" group-title="DEPORTES", El Canal Del Futbol - ECU SOLO EVENTOS
+http://higherpro.xyz:8080/Heriberto/Heriberto/40662
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", UFC EVENTOS
+http://higherpro.xyz:8080/Heriberto/Heriberto/40828
+
+#EXTINF:-1 tvg-logo="http://144.217.91.146/Logos/Spain/real-madrid-tv-es.png" group-title="DEPORTES", Real Madrid TV HD - ES
+http://higherpro.xyz:8080/Heriberto/Heriberto/45433
+
+#EXTINF:-1 tvg-logo="https://www.tvplusgratis.com/img/espnplus.png" group-title="DEPORTES", ESPN + SUR FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/68509
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="DEPORTES", DEP| CANAL+ SPORT
+http://higherpro.xyz:8080/Heriberto/Heriberto/115154
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="DEPORTES", DEP| CANAL+ FOOT
+http://higherpro.xyz:8080/Heriberto/Heriberto/115155
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F201%2Fbein-sports-hd-1.png" group-title="DEPORTES", DEP| BEIN SPORTS 1 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/115156
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="DEPORTES", DEP| BEIN SPORTS 2 HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/115157
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="USA", US_HD:ESPN Deportes
+http://higherpro.xyz:8080/Heriberto/Heriberto/40419
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="USA", ESPN Deportes HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/40516
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAT MEXICO", MEX| TVC Deportes
+http://higherpro.xyz:8080/Heriberto/Heriberto/13928
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAT MEXICO", MEX| TVC Deportes HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/13977
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FUTBOL-COLOMBIA", COL: WIN SPORT+*
+http://higherpro.xyz:8080/Heriberto/Heriberto/10271
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/2d7e5663f78f571b110dc2a2d33cc9a3.png" group-title="FUTBOL-COLOMBIA", DEP| WIN SPORTS PLUS *
+http://higherpro.xyz:8080/Heriberto/Heriberto/312
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FUTBOL-COLOMBIA", WIN SPORT PLUS HD  (EXCLUSIVO)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37930
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="FUTBOL-COLOMBIA", Win Sports + FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37931
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/4b7548ecfdb82df9ed90feadcc871b69.png" group-title="FUTBOL-COLOMBIA", Win Sports + HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37932
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/2d7e5663f78f571b110dc2a2d33cc9a3.png" group-title="FUTBOL-COLOMBIA", Win Sports + SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37933
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1BBy5N/win.png" group-title="FUTBOL-COLOMBIA", Win Sports FHD exclusivo
+http://higherpro.xyz:8080/Heriberto/Heriberto/37934
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1BBy5N/win.png" group-title="FUTBOL-COLOMBIA", WIN SPORTS FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37935
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/fe62afe1e20ad0a39d87e2b6a6bdc15e.png" group-title="FUTBOL-COLOMBIA", Win Sports FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37936
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FUTBOL-COLOMBIA", WIN SPORT PLUS HD  (EXCLUSIVO)
+http://higherpro.xyz:8080/Heriberto/Heriberto/37930
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-win-sports-plus-2457.png" group-title="FUTBOL-COLOMBIA", Win Sports + FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37931
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/4b7548ecfdb82df9ed90feadcc871b69.png" group-title="FUTBOL-COLOMBIA", Win Sports + HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37932
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/2d7e5663f78f571b110dc2a2d33cc9a3.png" group-title="FUTBOL-COLOMBIA", Win Sports + SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37933
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1BBy5N/win.png" group-title="FUTBOL-COLOMBIA", Win Sports FHD exclusivo
+http://higherpro.xyz:8080/Heriberto/Heriberto/37934
+
+#EXTINF:-1 tvg-logo="http://daleplay.biz:8080/images/fe62afe1e20ad0a39d87e2b6a6bdc15e.png" group-title="FUTBOL-COLOMBIA", Win Sports SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37942
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FUTBOL-COLOMBIA", WinSports Plus
+http://higherpro.xyz:8080/Heriberto/Heriberto/37943
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="FUTBOL-COLOMBIA", WinSports Plus HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/37944
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-america-latina-us.png" group-title="champions league / la liga", CL | ESPN 4 HD ©
+http://higherpro.xyz:8080/Heriberto/Heriberto/85399
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NMIWiAt.png" group-title="champions league / la liga", LALIGA | FOX SPORT 1 CL
+http://higherpro.xyz:8080/Heriberto/Heriberto/85400
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VJyoQi5.jpg" group-title="champions league / la liga", LALIGA | FOX SPORT PREMIUM
+http://higherpro.xyz:8080/Heriberto/Heriberto/85401
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFV9Rp6ERT0U5G7SuWvmrn2_mvnTS7S48pil2XkDBUP7OQ.png" group-title="champions league / la liga", DIRECTV SPORTS FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/78509
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/df8c637616e61c40c1bb699279cb1e2d.png" group-title="champions league / la liga", PL | ESPN 1 FHD (Latino)
+http://higherpro.xyz:8080/Heriberto/Heriberto/78510
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", LALIGA | LA LIGA
+http://higherpro.xyz:8080/Heriberto/Heriberto/78511
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", LALIGA | LALIGA HD EXTRA
+http://higherpro.xyz:8080/Heriberto/Heriberto/78512
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", LALIGA | LALIGA FHD *RECOMENDADO*
+http://higherpro.xyz:8080/Heriberto/Heriberto/78513
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", LALIGA | LALIGA FHD EXTRA 1
+http://higherpro.xyz:8080/Heriberto/Heriberto/78514
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", LALIGA | LALIGA FHD EXTRA 2
+http://higherpro.xyz:8080/Heriberto/Heriberto/78515
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", LALIGA | MOVISTAR LALIGA FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/78516
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqomdiOexIKl0u-kQTg-4Debw.png" group-title="champions league / la liga", ES | LA LIGA TV 4K (SOLO EVENTOS)
+http://higherpro.xyz:8080/Heriberto/Heriberto/78517
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/95934acba9f03dd831d41d6b17c4044b.jpg" group-title="champions league / la liga", ES | Bein Sports LaLiga
+http://higherpro.xyz:8080/Heriberto/Heriberto/78518
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="champions league / la liga", LALIGA | LALIGA BAR SD
+http://higherpro.xyz:8080/Heriberto/Heriberto/78519
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="champions league / la liga", LALIGA | TV BAR EXCLUSIVO
+http://higherpro.xyz:8080/Heriberto/Heriberto/78520
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/YGhGWb4ML7f3YKeTB1Fmyofh5830B_yM3CNbjsmUbnQOmAwcyB1JNRCYvf73lhRPc2QPltTU7abhHiKY_ye5cQ.jpg" group-title="champions league / la liga", LALIGA | TV BAR EXCLUSIVO 2
+http://higherpro.xyz:8080/Heriberto/Heriberto/78521
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/LQ8qATgZ-BQ8GBFiShH0YvMtbh6CK74nhIbN8ayb5lN07ETtB05NDhN4ZFoW9qepp7hpBsB2qLc711WuXgyn3isxHJZZdv0o91lI8eM8jYVdAA1IQbyOmwgYdnyHeJHljGvVNJt86npchQq0odZQ3t9E9YlvQ0gtEwb4V1JYJ_SojQ8LVP_t1979DkzKvWns.png" group-title="champions league / la liga", LALIGA | SKY SPORTS LALIGA
+http://higherpro.xyz:8080/Heriberto/Heriberto/78522
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqooA8YU3VAD7QYJpt9cND7HA.png" group-title="champions league / la liga", LALIGA | MOVISTAR LALIGA 1
+http://higherpro.xyz:8080/Heriberto/Heriberto/78529
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoRsdCOjCoKKyXSSj1fNTCmA.png" group-title="champions league / la liga", LALIGA | MOVISTAR LALIGA 2
+http://higherpro.xyz:8080/Heriberto/Heriberto/78530
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoTrqR_fJD63NHIwts3rDeLQ.png" group-title="champions league / la liga", LALIGA | MOVISTAR LALIGA 3
+http://higherpro.xyz:8080/Heriberto/Heriberto/78531
+
+#EXTINF:-1 tvg-logo="http://quebuscasaqui.xyz:8080/images/eE49F0DhHejtFXTCuNJaCg0ffdM_SGT1_uOcNnetvnCx_M2H_Frcdb--q1zlhVqoCO4X_DQUmIOfhC3NV7pJDA.png" group-title="champions league / la liga", LALIGA | MOVISTAR LALIGA 4
+http://higherpro.xyz:8080/Heriberto/Heriberto/78532
+
+#EXTINF:-1 tvg-logo="https://supersport-cms-prod.azureedge.net/media/cpmepvrs/laliga-1.png?width=200" group-title="champions league / la liga", LALIGA | Super Sports Laliga
+http://higherpro.xyz:8080/Heriberto/Heriberto/78533
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PPV EVENTOS Y LIVE", EVENTO daddy yankee the big boss
+http://higherpro.xyz:8080/Heriberto/Heriberto/54429
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vXLZZ6H/8046e93e-ae14-4ea5-bf71-c5bde7bbb0a9.jpg" group-title="PPV EVENTOS Y LIVE", Directv Sports FIGHT ᶠᴴᴰ
+http://higherpro.xyz:8080/Heriberto/Heriberto/114993
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMyX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png?timestamp=1645563232244" group-title="PPV EVENTOS Y LIVE", DIRECTV Sports Fight
+http://higherpro.xyz:8080/Heriberto/Heriberto/114994
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/USA/UFCFIGHTPASS.png" group-title="PPV EVENTOS Y LIVE", USA: UFC Fight Pass FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/114996
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG62.png" group-title="PPV EVENTOS Y LIVE", USA: UFC FIGHT PASS
+http://higherpro.xyz:8080/Heriberto/Heriberto/114997
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/UFC%20FIGHT%20PASS.png" group-title="PPV EVENTOS Y LIVE", UK: UFC FIGHT PASS
+http://higherpro.xyz:8080/Heriberto/Heriberto/114998
+
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s91306_ll_h3_aa.png" group-title="PPV EVENTOS Y LIVE", US: WWE NETWORK
+http://higherpro.xyz:8080/Heriberto/Heriberto/114999
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6249rxw" group-title="PPV EVENTOS Y LIVE", US: WWE
+http://higherpro.xyz:8080/Heriberto/Heriberto/115000
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/y6249rxw" group-title="PPV EVENTOS Y LIVE", US: WWE HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/115001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PPV EVENTOS Y LIVE", WWE | WWE Network HD (EXCLUSIVO) UHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/115002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PPV EVENTOS Y LIVE", WWE | WWE Network (EXCLUSIVO) UHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/115003
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/Brasil/ufc-combate-png-3.png" group-title="PPV EVENTOS Y LIVE", Combate
+http://higherpro.xyz:8080/Heriberto/Heriberto/115004
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vXLZZ6H/8046e93e-ae14-4ea5-bf71-c5bde7bbb0a9.jpg" group-title="PPV EVENTOS Y LIVE", Directv Sports FIGHT ᶠᴴᴰ
+http://higherpro.xyz:8080/Heriberto/Heriberto/114993
+
+#EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTMyX2xpbmVhcl9jaGFubmVs_11002_LOGO_360x270.png?timestamp=1645563232244" group-title="PPV EVENTOS Y LIVE", DIRECTV Sports Fight
+http://higherpro.xyz:8080/Heriberto/Heriberto/114994
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/USA/UFCFIGHTPASS.png" group-title="PPV EVENTOS Y LIVE", USA: UFC Fight Pass FHD
+http://higherpro.xyz:8080/Heriberto/Heriberto/114996
+
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG62.png" group-title="PPV EVENTOS Y LIVE", USA: UFC FIGHT PASS
+http://higherpro.xyz:8080/Heriberto/Heriberto/114997
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/UK/UFC%20FIGHT%20PASS.png" group-title="PPV EVENTOS Y LIVE", UK: UFC FIGHT PASS
+http://higherpro.xyz:8080/Heriberto/Heriberto/114998
+
+#EXTINF:-1 tvg-logo="https://cm-inter.xyz/Logos/USA/FIGHTNETWORK.png" group-title="PPV EVENTOS Y LIVE", USA: Fight Network HD
+http://higherpro.xyz:8080/Heriberto/Heriberto/115031
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="PPV EVENTOS Y LIVE", USA: FIGHT NETWORK
+http://higherpro.xyz:8080/Heriberto/Heriberto/115032
+
+
+
